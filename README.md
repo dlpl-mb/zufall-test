@@ -12,7 +12,7 @@
   "description": "A game of bouncing ball",
   "url":"/examples/ping-pong",
 "imageUrl":"https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg",
-  "cardType": "example"
+  "cardType": "side"
 }
 ]
 ```
@@ -139,5 +139,5 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNTQxOTgzXX0=
+eyJoaXN0b3J5IjpbMjA2NDQ2NjI0Miw3NzA1NDE5ODNdfQ==
 -->
