@@ -1,5 +1,5 @@
 
-#das ist die Readme.datei
+# Das ist die Readme.md
 # Dem Zufall auf der Spur
 ```ghost
 	input.onButtonPressed(Button.B, function () {
