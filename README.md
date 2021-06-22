@@ -1,6 +1,6 @@
 # Dem Zufall auf der Spur
 
-## Einstieg: Münzwurf
+## Einstieg: Münzwurf<ycx<xyc<y
 Welcome! Platziere den Block ``||basic:zeige Text||`` in die Klammer von ``||basic:beim Start||``um deinen Namen zu scrollen.
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
@@ -114,6 +114,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mzc5NjA0MywyMDY0NDY2MjQyLDc3MD
-U0MTk4M119
+eyJoaXN0b3J5IjpbMTYxMDE5NjcyNiwxMTYzNzk2MDQzLDIwNj
+Q0NjYyNDIsNzcwNTQxOTgzXX0=
 -->
