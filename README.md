@@ -1,37 +1,10 @@
-
-# Das ist die Readme.md
 # Dem Zufall auf der Spur
-Das ist die Readme.datei
-```ghost
-	input.onButtonPressed(Button.B, function () {
-	    basic.showNumber(kopf)
-	})
-```
-```codecard
-[
-{
-  "name": "Fertiges Programm",
-  "description": "A game of bouncing ball",
-  "url":"/examples/ping-pong",
-"imageUrl":"https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg",
-  "cardType": "side"
-}
-]
-```
 
-
-## Einstieg: Münzenwurf
+## Einstieg: Münzwurf
 Welcome! Platziere den Block ``||basic:zeige Text||`` in die Klammer von ``||basic:beim Start||``um deinen Namen zu scrollen.
 Eine Behauptung: Wenn man einen Münze oft genug wirft, dann erhält man etwa gleich viele Kopf und Zahlwürfe. 
 ![enter image description here](https://microbit.eeducation.at/images/thumb/1/11/Kopf_zahl.jpg/300px-Kopf_zahl.jpg)
 Testet man das in der Realität durch Münzenwerfen, so erhält man bei 10 Würfen Ergebnisse, wie etwa 6:4, 7:3 oder gar 5:5 - aber auch 9:1 ist möglich. Also ist man von der Behauptung "gleicher  Kopf und Zahlwürfen" weit entfernt. Vielleicht müsste man aber 1000 mal werfen, aber das ist zu zeitaufwendig.
-
-```template
-    input.onButtonPressed(Button.B, function () {
-	    basic.showNumber(kopf)
-	})
-
-```
 
 ## Versuch: Münzwurf mit Computer
 Micro:bit kann ja Zahlen darstellen - und das Würfeln könnte der  Zufallsgenerator durchführen. (Siehe Menü Mathematik ). Mit Zufallszahl 0 nehmen wir die Kopfseite der Münze und mit Zufallszahl 1 nehmen wir Zahlseite.
@@ -141,5 +114,6 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDQ2NjI0Miw3NzA1NDE5ODNdfQ==
+eyJoaXN0b3J5IjpbMTE2Mzc5NjA0MywyMDY0NDY2MjQyLDc3MD
+U0MTk4M119
 -->
